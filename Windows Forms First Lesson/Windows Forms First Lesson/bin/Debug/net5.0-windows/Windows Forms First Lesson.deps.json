@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Windows Forms First Lesson/1.0.0": {
+        "runtime": {
+          "Windows Forms First Lesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows Forms First Lesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
