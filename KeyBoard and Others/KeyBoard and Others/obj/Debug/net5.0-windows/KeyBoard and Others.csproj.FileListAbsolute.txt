@@ -1,0 +1,18 @@
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\bin\Debug\net5.0-windows\KeyBoard and Others.exe
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\bin\Debug\net5.0-windows\KeyBoard and Others.deps.json
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\bin\Debug\net5.0-windows\KeyBoard and Others.runtimeconfig.json
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\bin\Debug\net5.0-windows\KeyBoard and Others.runtimeconfig.dev.json
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\bin\Debug\net5.0-windows\KeyBoard and Others.dll
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\bin\Debug\net5.0-windows\ref\KeyBoard and Others.dll
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\bin\Debug\net5.0-windows\KeyBoard and Others.pdb
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard_and_Others.Form1.resources
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.AssemblyInfo.cs
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.dll
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\ref\KeyBoard and Others.dll
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.pdb
+C:\Users\victor\source\repos\KeyBoard and Others\KeyBoard and Others\obj\Debug\net5.0-windows\KeyBoard and Others.genruntimeconfig.cache

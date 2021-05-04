@@ -1,0 +1,10 @@
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\bin\Debug\Stac.Std.Dialog.exe.config
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\bin\Debug\Stac.Std.Dialog.exe
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\bin\Debug\Stac.Std.Dialog.pdb
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\obj\Debug\Stac. Std. Dialog.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\obj\Debug\Stac.Std.Dialog.Dialog.resources
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\obj\Debug\Stac.Std.Dialog.Properties.Resources.resources
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\obj\Debug\Stac. Std. Dialog.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\obj\Debug\Stac. Std. Dialog.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\obj\Debug\Stac.Std.Dialog.exe
+C:\Users\victor\source\repos\Stac. Std. Dialog\Stac. Std. Dialog\obj\Debug\Stac.Std.Dialog.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KeyBoard and Others/1.0.0": {
+        "runtime": {
+          "KeyBoard and Others.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeyBoard and Others/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ErrorProvider. NotifyIcon/1.0.0": {
+        "runtime": {
+          "ErrorProvider. NotifyIcon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ErrorProvider. NotifyIcon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

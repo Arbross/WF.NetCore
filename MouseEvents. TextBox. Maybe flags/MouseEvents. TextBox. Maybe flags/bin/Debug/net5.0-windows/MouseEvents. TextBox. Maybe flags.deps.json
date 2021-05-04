@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MouseEvents. TextBox. Maybe flags/1.0.0": {
+        "runtime": {
+          "MouseEvents. TextBox. Maybe flags.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MouseEvents. TextBox. Maybe flags/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

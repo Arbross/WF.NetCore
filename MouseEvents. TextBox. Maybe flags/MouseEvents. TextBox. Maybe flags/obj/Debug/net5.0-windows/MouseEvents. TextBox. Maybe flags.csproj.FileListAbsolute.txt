@@ -1,0 +1,18 @@
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\bin\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.exe
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\bin\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.deps.json
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\bin\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.runtimeconfig.json
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\bin\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.runtimeconfig.dev.json
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\bin\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.dll
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\bin\Debug\net5.0-windows\ref\MouseEvents. TextBox. Maybe flags.dll
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\bin\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.pdb
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents._TextBox._Maybe_flags.Form1.resources
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.AssemblyInfo.cs
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.dll
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\ref\MouseEvents. TextBox. Maybe flags.dll
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.pdb
+C:\Users\victor\source\repos\MouseEvents. TextBox. Maybe flags\MouseEvents. TextBox. Maybe flags\obj\Debug\net5.0-windows\MouseEvents. TextBox. Maybe flags.genruntimeconfig.cache
