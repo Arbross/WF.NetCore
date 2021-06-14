@@ -1,0 +1,18 @@
+C:\Users\victor\source\repos\DragDrop\ListView. WF\bin\Debug\net5.0-windows\ListView. WF.exe
+C:\Users\victor\source\repos\DragDrop\ListView. WF\bin\Debug\net5.0-windows\ListView. WF.deps.json
+C:\Users\victor\source\repos\DragDrop\ListView. WF\bin\Debug\net5.0-windows\ListView. WF.runtimeconfig.json
+C:\Users\victor\source\repos\DragDrop\ListView. WF\bin\Debug\net5.0-windows\ListView. WF.runtimeconfig.dev.json
+C:\Users\victor\source\repos\DragDrop\ListView. WF\bin\Debug\net5.0-windows\ListView. WF.dll
+C:\Users\victor\source\repos\DragDrop\ListView. WF\bin\Debug\net5.0-windows\ref\ListView. WF.dll
+C:\Users\victor\source\repos\DragDrop\ListView. WF\bin\Debug\net5.0-windows\ListView. WF.pdb
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView._WF.Form1.resources
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.AssemblyInfo.cs
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.dll
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ref\ListView. WF.dll
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.pdb
+C:\Users\victor\source\repos\DragDrop\ListView. WF\obj\Debug\net5.0-windows\ListView. WF.genruntimeconfig.cache
